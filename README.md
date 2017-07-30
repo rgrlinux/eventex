@@ -2,6 +2,10 @@
 
 Sistema de eventos encomendado pela Morena
 
+[![Build Status](https://travis-ci.org/rgrlinux/eventex.svg?branch=master)](https://travis-ci.org/rgrlinux/eventex)
+[![Code Health](https://landscape.io/github/rgrlinux/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/rgrlinux/eventex/master)
+
+
 ## Como Desenvolver?
 
 1. Clone o repositório.
